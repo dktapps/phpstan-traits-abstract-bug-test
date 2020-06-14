@@ -1,0 +1,11 @@
+{
+   "name": "dylan-work/phpstan-playground",
+   "require": {
+      "phpstan/phpstan": "dev-master"
+   },
+   "autoload": {
+      "psr-4": {
+         "pocketmine\\tile\\": "src/"
+      }
+   }
+}
